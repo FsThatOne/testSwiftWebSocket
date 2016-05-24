@@ -1,0 +1,2 @@
+# testSwiftWebSocket
+Test Swift WebSocket.
